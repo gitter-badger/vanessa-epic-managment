@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# EN
+# is the commit contains feature files diff, then in the commit message auto add links to features issues
+# feature must contains @PMIssueTag=EpicLink
+# support only HEAD tag in feature, for changed scenario and link it to issue developer must set the commit message directly 
+
+
+echo 'This is proposall'
