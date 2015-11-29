@@ -1,5 +1,7 @@
 ﻿## Контроль и работа с целями заказчика на языке Gherkin
 
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-epic-managment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-epic-managment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * обработка для контроля работы с целями
 * обработка для контроля работы с компонентами
 
